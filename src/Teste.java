@@ -8,6 +8,7 @@ public class Teste{
     
 	}
 	//teste
+	//teste
 	
 	public static String getTexto(String texto){
 		return texto;
