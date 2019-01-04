@@ -7,7 +7,8 @@ public class Teste{
 		System.out.println(getTexto("olelele"));
     
 	}
-	
+	//testinho
+	//teste remoto
 	
 	public static String getTexto(String texto){
 		return texto;
