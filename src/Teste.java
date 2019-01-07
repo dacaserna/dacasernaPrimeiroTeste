@@ -4,8 +4,8 @@ public class Teste{
 	
 	
 	public static void main(String[] args) {
-		System.out.println(getTexto("olaresoi"));
-    
+		System.out.println(getTexto("oioioioi"));
+    		//edicao de arquivo
 	}
 	//teste
 	//teste
