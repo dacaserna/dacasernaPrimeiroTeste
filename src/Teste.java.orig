@@ -7,10 +7,14 @@ public class Teste{
 		System.out.println(getTexto("olelele"));
     
 	}
+<<<<<<< HEAD
 	//teste
 	//teste
 	//mais um teste
-	//outro teste
+=======
+	//testinho
+	//teste remoto
+>>>>>>> 3d8efb6dcef44acb13fd97b11d3fa5d4d7841794
 	
 	public static String getTexto(String texto){
 		return texto;
