@@ -4,7 +4,7 @@ public class Teste{
 	
 	
 	public static void main(String[] args) {
-		System.out.println(getTexto("olelele"));
+		System.out.println(getTexto("oioioioi"));
     
 	}
 	//teste
